@@ -1,0 +1,17 @@
+order_id,order_datetime,customer_id,city,product_name,category,cost_per_unit,quantity,payment_method,Revenue
+ORD-1001,2024-01-03 09:15:00,CUST-501,Chicago,Wireless Ergonomic Mouse,Electronics,29.99,2,Credit Card,59.98
+ORD-1002,2024-01-03 10:42:00,CUST-502,Seattle,Mechanical Keyboard,Electronics,89.5,1,Paypal,89.5
+ORD-1003,2024-01-03 12:05:00,CUST-503,Austin,Organic Green Tea (Pack of 50),Grocery,14.25,3,Debit Card,42.75
+ORD-1004,2024-02-03 08:30:00,CUST-504,Denver,Yoga Mat Non-Slip,Fitness,24.0,1,Credit Card,24.0
+ORD-1005,2024-02-03 14:22:00,CUST-505,Boston,Ceramic Coffee Mug 12oz,Home & Kitchen,12.5,4,Apple Pay,50.0
+ORD-1006,2024-03-03 11:10:00,CUST-506,San Francisco,Noise Cancelling Headphones,Electronics,199.99,1,Credit Card,199.99
+ORD-1007,2024-03-03 16:45:00,CUST-507,Atlanta,Stainless Steel Water Bottle,Fitness,18.0,2,Debit Card,36.0
+ORD-1008,2024-04-03 09:05:00,CUST-508,Portland,LED Desk Lamp with USB Port,Home Office,35.5,1,Paypal,35.5
+ORD-1009,2024-04-03 13:37:00,CUST-509,Miami,Polarized Sunglasses UV400,Apparel,45.0,2,Credit Card,90.0
+ORD-1010,2024-05-03 15:19:00,CUST-510,Dallas,Hardcover Ruled Notebook,Stationery,9.99,5,Debit Card,49.95
+ORD-1011,2024-05-03 18:02:00,CUST-511,Los Vegas,USB-C Fast Charging Cable,Electronics,11.99,2,Los Vegas,23.98
+ORD-1013,2024-06-03 22:15:00,CUST-513,Nyc,Bluetooth Portable Speaker,electronics,49.99,1,Credit Card,49.99
+ORD-1015,2024-07-03 09:50:00,CUST-515,Houston,Cotton Crew Socks (3-Pack),Apparel,12.0,8500,Credit Card,102000.0
+ORD-1016,2024-07-03 16:35:00,CUST-516,San Diego,Resistance Bands Set,Fitness,22.5,4,Paypal,90.0
+ORD-1017,2024-08-03 11:22:00,CUST-517,Philadelphia,Silicone Phone Case,Electronics,99999.0,1,Credit Card,99999.0
+ORD-1019,2024-09-03 13:12:00,CUST-519,Nashville,Adjustable Laptop Stand,Home Office,30.0,2,Credit Card,60.0
