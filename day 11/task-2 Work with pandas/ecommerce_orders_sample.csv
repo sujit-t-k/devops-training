@@ -1,0 +1,21 @@
+order_id,order_datetime,customer_id,city,product_name,category,cost_per_unit,quantity,payment_method
+ORD-1001,01-03-2024 09:15,CUST-501,Chicago,Wireless Ergonomic Mouse,Electronics,29.99,2,Credit Card
+ORD-1002,01-03-2024 10:42,CUST-502,Seattle,Mechanical Keyboard,Electronics,89.5,1,PayPal
+ORD-1003,01-03-2024 12:05,CUST-503,Austin,Organic Green Tea (Pack of 50),Grocery,14.25,3,Debit Card
+ORD-1004,02-03-2024 08:30,CUST-504,Denver,Yoga Mat Non-Slip,Fitness,24,1,Credit Card
+ORD-1005,02-03-2024 14:22,CUST-505,Boston,Ceramic Coffee Mug 12oz,Home & Kitchen,12.5,4,Apple Pay
+ORD-1006,03-03-2024 11:10,CUST-506,San Francisco,Noise Cancelling Headphones,Electronics,199.99,1,Credit Card
+ORD-1007,03-03-2024 16:45,CUST-507,Atlanta,Stainless Steel Water Bottle,Fitness,18,2,Debit Card
+ORD-1008,04-03-2024 09:05,CUST-508,Portland,LED Desk Lamp with USB Port,Home Office,35.5,1,PayPal
+ORD-1009,04-03-2024 13:37,CUST-509,Miami,Polarized Sunglasses UV400,Apparel,45,2,Credit Card
+ORD-1010,05-03-2024 15:19,CUST-510,Dallas,Hardcover Ruled Notebook,Stationery,9.99,5,Debit Card
+ORD-1011,05-03-2024 18:02,CUST-511,,USB-C Fast Charging Cable,Electronics,11.99,2,
+ORD-1002,01-03-2024 10:42,CUST-502,Seattle,Mechanical Keyboard,Electronics,89.5,1,PayPal
+ORD-1013,06-03-2024 22:15,CUST-513,nyc,Bluetooth Portable Speaker,electronics,49.99,1,CREDIT CARD
+ORD-1014,06-03-2024 14:20,CUST-514,Phoenix,Wireless Charging Pad,Electronics,$55.00,three,Apple Pay
+ORD-1015,07-03-2024 09:50,CUST-515,Houston,Cotton Crew Socks (3-Pack),Apparel,12,8500,credit Card
+ORD-1016,07-03-2024 16:35,CUST-516,San Diego,Resistance Bands Set,Fitness,22.5,-4,PayPal
+ORD-1017,08-03-2024 11:22,CUST-517,Philadelphia,Silicone Phone Case,Electronics,99999,1,Credit Card
+ORD-1018,08-03-2024 17:40,CUST-518,San Jose,,Home & Kitchen,,2,    debit CARD
+ORD-1019,09-03-2024 13:12,CUST-519,Nashville,Adjustable Laptop Stand,Home Office,-15,2,Credit Card
+ORD-1020,2024-02-31 25:99:00,CUST-520,Columbus,Scented Soy Candle,Home & Kitchen,16,2,Debit Card
