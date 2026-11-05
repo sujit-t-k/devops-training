@@ -1,0 +1,11 @@
+customer_id,customer_name,city,signup_date,customer_tier
+CUST_101,Aarav Sharma,Mumbai,15-01-2023,Gold
+CUST_102,Diya Patel,Bangalore,14-02-2023,Silver
+CUST_103,Rohan Iyer,Chennai,10-05-2023,Platinum
+CUST_104,Ananya Reddy,Hyderabad,18-06-2023,Gold
+CUST_105,Vikram Malhotra,Delhi,01-08-2023,Regular
+CUST_106,Sneha Kulkarni,Pune,14-09-2023,Silver
+CUST_107,Kabir Mehta,Mumbai,05-11-2023,Regular
+CUST_108,Pooja Nair,Bangalore,12-12-2023,Gold
+CUST_109,Arjun Sen,Kolkata,20-01-2024,Silver
+CUST_110,  ,Delhi,11-02-2024,Regular
