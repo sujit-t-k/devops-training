@@ -1,0 +1,11 @@
+product_id,product_name,product_category,unit_price,stock_quantity
+PROD_201,Ergonomic Office Chair,Furniture,7500.0,45
+PROD_202,Mechanical Gaming Keyboard,Electronics,3200.0,120
+PROD_203,Noise Cancelling Headphones,Electronics,9999.0,60
+PROD_204,Stainless Steel Water Bottle,Fitness,850.0,250
+PROD_205,Ceramic Pour-Over Coffee Dripper,Kitchen,1250.0,80
+PROD_206,Wireless Charging Pad,Electronics,1499.0,150
+PROD_207,Organic Green Tea (50 Bags),Grocery,450.0,300
+PROD_208,Non-Slip Exercise Yoga Mat,Fitness,1200.0,90
+PROD_209,Adjustable Aluminum Laptop Stand,Furniture,1850.0,110
+PROD_210,Smart LED Desk Lamp,Lighting,2200.0,75
