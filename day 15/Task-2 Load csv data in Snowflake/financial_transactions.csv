@@ -1,0 +1,13 @@
+transaction_id,transaction_timestamp,sender_id,receiver_id,transaction_type,transaction_status,amount,fee_amount,payment_category,device_type,bank_partner,location_city
+TXN_101,2024-03-01 09:30:00,USER_A,USER_B,UPI,Success,500.0,0.0,Groceries,Mobile App,HDFC Bank,Mumbai
+TXN_102,2024-03-01 11:15:00,USER_B,USER_C,UPI,Failed,1200.0,0.0,Shopping,Mobile App,ICICI Bank,Mumbai
+TXN_103,2024-03-01 14:00:00,USER_C,USER_C,ATM Deposit,Success,5000.0,0.0,Self Deposit,ATM Terminal,SBI,Bangalore
+TXN_104,2024-03-02 10:20:00,USER_A,USER_D,Netbanking,Success,15000.0,10.0,Utilities,Web Portal,HDFC Bank,Mumbai
+TXN_105,2024-03-02 16:45:00,USER_D,USER_A,UPI,Success,800.0,0.0,Groceries,Mobile App,SBI,Delhi
+TXN_106,2024-03-03 08:50:00,USER_B,USER_B,ATM Deposit,Success,2000.0,0.0,Self Deposit,ATM Terminal,ICICI Bank,Bangalore
+TXN_107,2024-03-03 13:10:00,USER_C,USER_A,UPI,Initiated,350.0,0.0,Entertainment,Mobile App,HDFC Bank,Delhi
+TXN_108,2024-03-04 15:25:00,USER_A,USER_B,Debit Card,Success,2500.0,0.0,Shopping,POS Terminal,HDFC Bank,Mumbai
+TXN_109,2024-03-04 18:40:00,USER_D,USER_C,Netbanking,Failed,8000.0,5.0,Utilities,Web Portal,SBI,Delhi
+TXN_110,2024-03-05 11:05:00,USER_B,USER_D,UPI,Success,1500.0,0.0,Shopping,Mobile App,ICICI Bank,Bangalore
+TXN_111,2024-03-05 17:30:00,USER_C,USER_C,ATM Deposit,Failed,1000.0,0.0,Self Deposit,ATM Terminal,SBI,Delhi
+TXN_112,2024-03-06 20:10:00,USER_A,USER_C,UPI,Success,450.0,0.0,Entertainment,Mobile App,HDFC Bank,Mumbai
